@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/samsung/!svn/ver/5685/clients/android/DeviceExplorer/trunk/src/com/vlingo/android/tools/formats
+END
+PlainTextFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/samsung/!svn/ver/5685/clients/android/DeviceExplorer/trunk/src/com/vlingo/android/tools/formats/PlainTextFormat.java
+END
+CsvFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/samsung/!svn/ver/5685/clients/android/DeviceExplorer/trunk/src/com/vlingo/android/tools/formats/CsvFormat.java
+END
+XmlFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/samsung/!svn/ver/5685/clients/android/DeviceExplorer/trunk/src/com/vlingo/android/tools/formats/XmlFormat.java
+END

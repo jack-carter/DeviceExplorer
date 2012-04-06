@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/samsung/!svn/ver/5685/clients/android/DeviceExplorer/trunk/src/com/vlingo/android/tools
+END
+Device.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/samsung/!svn/ver/5687/clients/android/DeviceExplorer/trunk/src/com/vlingo/android/tools/Device.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/samsung/!svn/ver/5685/clients/android/DeviceExplorer/trunk/src/com/vlingo/android/tools/Log.java
+END
+ActivityInfoDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/samsung/!svn/ver/5685/clients/android/DeviceExplorer/trunk/src/com/vlingo/android/tools/ActivityInfoDescriptor.java
+END
+Format.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/samsung/!svn/ver/5685/clients/android/DeviceExplorer/trunk/src/com/vlingo/android/tools/Format.java
+END
+Flag.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/samsung/!svn/ver/5688/clients/android/DeviceExplorer/trunk/src/com/vlingo/android/tools/Flag.java
+END
+DeviceDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/samsung/!svn/ver/5685/clients/android/DeviceExplorer/trunk/src/com/vlingo/android/tools/DeviceDescriptor.java
+END

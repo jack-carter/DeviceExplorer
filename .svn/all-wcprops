@@ -1,0 +1,39 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 22
+/svn/samsung/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/samsung/!svn/ver/5685/clients/android/DeviceExplorer/trunk
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/samsung/!svn/ver/5546/clients/android/DeviceExplorer/trunk/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/samsung/!svn/ver/5546/clients/android/DeviceExplorer/trunk/proguard.cfg
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/samsung/!svn/ver/5546/clients/android/DeviceExplorer/trunk/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/samsung/!svn/ver/5546/clients/android/DeviceExplorer/trunk/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/samsung/!svn/ver/5687/clients/android/DeviceExplorer/trunk/AndroidManifest.xml
+END
